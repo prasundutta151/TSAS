@@ -1,0 +1,6 @@
+# ==================== GAUSS GEN PARAMEERS =================================
+# VALUE --------------------  PARAM  --------TYP---- COMMENT ---------------
+#
+1024		 1.5	    : NGRID, DL	    [L, D]    [number, arc sec]
+1.		-1.5	 0. : AA, alp, mean [F, F, F] [P(U) = A*U**alp, mean]
+1.6E-3		 1.5E-3	    : BMaj, BMin    [D, D]    [deg, deg]
