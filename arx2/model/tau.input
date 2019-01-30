@@ -1,0 +1,13 @@
+./				: ScriptPath
+contmod.fits			: Continium Model FITS file
+ILINE_60_tau_1.094.dat		: Observed Line power spectrum [U, PU, EU]
+60	1			: BCHAN, NCHAG [Exp 60 2:=> 60-61]
+/DATA/pdutta/TAU		: TEMPDIR
+./ChiFile_chk.dat		: Chi square data file prefix [FMT: FITS]
+0.4	30.0			: Umin, Umax [KL]
+512	32			: NGrid, NBin
+-5.5	-0.4	4  		: alp_m, alp_M, Nalp
+0.1	1.5	8		: sig_m, sig_M, Nsig
+0.5	1.5	8		: ta0_m, ta0_M, Nta0
+2				: NReal	
+
